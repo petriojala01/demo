@@ -22,3 +22,6 @@ Torstai.
 
 Perjantai.
 
+# kuudes
+
+Lauantai
