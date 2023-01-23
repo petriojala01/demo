@@ -17,3 +17,8 @@ Keskiviikko.
 ## neljäs
 
 Torstai.
+
+## viides
+
+Perjantai.
+
