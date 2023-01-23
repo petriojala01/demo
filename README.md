@@ -1,4 +1,4 @@
-# devops-github-demo-3
+# DevOps GitHub CI/CD demo
 
 ## otsikko
 
